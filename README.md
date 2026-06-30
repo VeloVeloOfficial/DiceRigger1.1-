@@ -1,14 +1,25 @@
 BEAT THE ODDS
+ 
  🎲 Color Dice Extension
-"BEAT THE ODDS" is a simple yet engaging Chrome extension that lets you roll a virtual color dice by pressing keys on your keyboard. Each number corresponds to a different color, allowing you to change the background color dynamically. After every roll, you must press 0 to reset before rolling again.
+
+"BEAT THE ODDS" is a simple yet engaging Chrome extension that lets you roll a virtual color dice by pressing keys on your keyboard. Each number corresponds to a different color, allowing you to change the background 
+color dynamically. After every roll, you must press 0 to reset before rolling again.
+
 
 🔥 Features
+
 🎨 Change colors instantly using number keys.
+
 ⏪ Reset the dice after every roll with 0.
+
 ⚡ Lightweight and fast.
+
 🖥 Works on any webpage.
+
 🎮 Controls
+
 Key	Color
+
 1	🔴 Red
 2	🟠 Orange
 3	🟡 Yellow
@@ -16,6 +27,7 @@ Key	Color
 5	🔵 Blue
 6	🟣 Purple
 0	🔄 Reset
+
 🛠 Installation Guide
 Download the Extension:
 
